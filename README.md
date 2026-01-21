@@ -1,4 +1,4 @@
-# TS Analysis EXE版 README
+# TS Analysis
 
 ## 1. このアプリについて
 TS Analysis は、複数の時系列解析手法を同一条件で比較 検証するための Windows 用 GUI アプリです。
